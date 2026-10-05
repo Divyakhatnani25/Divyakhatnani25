@@ -30,38 +30,6 @@ Aspiring to transition into roles in:
 
 🌱 Always learning. Always curious.
 
-📂 You can find my projects here: # 👋 Hi, I'm Divya  
-Research Analyst with 4+ years of experience in market research, data analysis, and strategic insights. I specialize in transforming complex datasets into actionable intelligence that supports business growth and decision-making.  
-
-📈 I recently finished projects exploring consumer behavior and sustainability trends, with a special interest in the electric vehicle sector.  
-
-🌱 Always learning. Always curious.  
-
-## 🔑 Core Skills  
-- Market Research & Competitive Intelligence  
-- Business & Strategic Analysis  
-- SQL (Database creation, queries, data aggregation)  
-- Advanced Excel (Pivot Tables, VBA Automation, Data Cleaning)  
-- Forecasting & Trend Analysis  
-- Executive Reporting & Insight Communication  
-- Business Intelligence & Consulting  
-
-## 🎯 Career Focus  
-Aspiring to transition into roles in:  
-- Business Analyst  
-- Market Intelligence  
-- Business Intelligence  
-- Strategy & Consulting  
-
-## 🌟 Career Highlights  
-- Delivered insights on consumer behavior and sustainability trends for recent projects.  
-- Supported executive reporting with clear, data-driven narratives.  
-- Applied SQL and Excel to analyze e-commerce and utility datasets, improving decision-making.  
-
-## 📂 Projects  
-- **SQL_Projects**: E-commerce & utility store analysis using SQL datasets  
-
-## 🔗 Explore More  
 📂 You can find my projects here: [GitHub Repositories](https://github.com/Divyakhatnani25?tab=repositories)
 📬 Reach me on LinkedIn: https://www.linkedin.com/in/divya-khatnani-816a14120/
 
