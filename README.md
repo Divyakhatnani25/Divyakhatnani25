@@ -14,7 +14,6 @@ Aspiring to transition into roles in:
 - Business Analyst
 - Market Research  
 - Consumer Insights  
-- Business Intelligence  
 - Quantitative Analysis  
 - SQL  
 - Power BI  
